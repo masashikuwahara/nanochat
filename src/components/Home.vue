@@ -24,14 +24,14 @@
         </div>
       </div>
     </div>
-    <div class="mt-3 text-white">
+    <div class="text-center mt-3 text-white">
       -更新履歴-
-    </div>
-    <div v-for="history in histories" :key="history.date" class="text-white">
-      {{ history.date }} {{ history.content }}
-    </div>
-    <div class="mt-4 text-white">
-      1.0.0-alpha.1
+      <div v-for="history in histories" :key="history.date" class="text-white">
+        {{ history.date }} {{ history.content }}
+      </div>
+      <div class="mt-4 text-white">
+        1.0.0-alpha.2
+      </div>
     </div>
   </div>
 </template>
