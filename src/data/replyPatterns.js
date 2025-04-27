@@ -7,7 +7,7 @@ export const replyPatterns = {
     { keyword: '暑い', replies: ['ほんとそれ〜🥵', '暑すぎて溶けちゃうよ〜', 'アイス食べたい〜🍦'] },
     { keyword: '疲れた', replies: ['ひなのも〜、ちょっとゴロゴロしよ〜', 'おつかれさまっ💤', '無理しないでね〜'] },
     { keyword: 'おやすみ', replies: ['おやすやー', 'よく寝るのだー', 'よく寝よう'] },
-    { keyword: 'へんてこスイッチ', replies: ['今度感想聞かせて', 'どうだった？'] },
+    { keyword: 'へんてこスイッチ', replies: ['今度感想聞かせて',] },
     { keyword: '', replies: ['うんうん〜', 'それってどういうこと？', 'なるほど〜！'] }
   ],
   katoshi: [
