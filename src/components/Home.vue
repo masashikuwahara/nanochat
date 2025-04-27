@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-[#7cc7e8] p-6">
     <div class="max-w-2xl mx-auto">
       <h1 class="text-2xl font-bold text-white text-center mb-8 drop-shadow">
-        HINACHAT(アルファ版)
+        HINACHAT(テスト版)
       </h1>
       <h2 class="text-2xl font-bold text-white text-center mb-8 drop-shadow">
         これはテスト版です
